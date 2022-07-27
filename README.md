@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IvanSoarex
+- 👀 I’m interested in JavaScript,
+- 🌱 I’m currently learning AWS and Docker
