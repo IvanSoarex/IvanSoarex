@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @IvanSoarex
+- 👋 Hi, I’m Ivan Soares,
 - 👀 I’m interested in JavaScript,
 - 🌱 I’m currently learning AWS and Docker
