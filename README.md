@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ivan Soares,
-- 👀 I’m interested in JavaScript,
-- 🌱 I’m currently learning AWS and Docker
+- 👀 I’m interested in JavaScript and .NET,
+- 🌱 I’m currently learning AWS, Azure and Docker
